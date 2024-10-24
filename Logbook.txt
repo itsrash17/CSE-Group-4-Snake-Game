@@ -9,4 +9,4 @@ Rabbi-jidni-Ilma.
 10:44 PM, Thursday, October 24, 2024
 
 Initial planning is done. Esstimating a rough size of 6 to 7 hundred lines of code. At least we started :v We'll meet the deadline hopefully.
-Initial planning can be found in the "[snakeoutline.txt](https://github.com/itsrash17/CSE-Group-4-Snake-Game/blob/main/snakeoutline.txt)" inside this repo under the main branch. 
+Initial planning can be found in the "snakeoutline.txt" inside this repo under the main branch. 
