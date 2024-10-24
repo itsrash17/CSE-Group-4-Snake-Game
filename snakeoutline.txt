@@ -1,0 +1,23 @@
+The snake game has a window which has a border , a moving object , a static object.
+The moving object is a snake, which moves around inside the border. The static object or the marker is a fruit which is eaten by the snake(or collided into)
+As the snake eats the fruit , its body length increases gradually.
+The snake starts from the center of the border, and the fruits are generated randomly within the border.
+
+The objective of the game is to move around into the marker (or in this case a static object which is a fruit) that is randomly generated without colliding with the border and its own body. 
+Eating each fruit gives the player one points.
+The win is determined by the points earnt by eating the fruit.
+The game will take user inputs through W,A,S,D keys on the keyboard
+
+
+
+
+
+After looking at the game mechanics, we can see , there are several parts which need to be done using custom-library functions , in order to optimize the size of the final source code of the game.
+We will use functions to do these following tasks-
+1. Create a window
+2. Create and specify the boundary
+3. Define the moving object- snake and its features.
+4. Define the static object- fruit and code it to be spawned randomly within the boundaries. 
+5. Make an argument that specifies conditions of starting and ending the game.
+6. Make a library function that stores the points earned and show the score at the end of the game.
+7. Integrate a library that takes key inputs from the player.
