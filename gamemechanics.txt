@@ -1,0 +1,16 @@
+Full game mechanics:
+
+The Moving object is a snake, which will be comprised of many characters . The characters are placed together, side by side and thus a chain is created , which makes up the body of the snake. The boundary will be made using different characters than the snake's body. 
+We will print the instructions, the score and assign a button to end the game. The snake can move alongside x and y axis in a 2 dimensional space. There is a loop to make the snake move, the loop updates the co ordinate of snake after a set time interval. T
+he co ordinates in the current plane increases by one and the snake moves.
+
+
+In the window, characters will make up the boundary. Using the conio header library we will take the inputs from the user . The reason we will use conio header file, because it has better support for taking raw inputs. 
+
+There will be a loop that will constantly update the snakes location, and another loop will keep placing the single object; the fruit in random places inside the boundary. 
+The fruit is a single size character or marker into which the snake will go; each time the snake does that, the score goes up by one.
+
+And some arguments will be placed, which will check if the snake has ran into itself or into the boundary, and if the arguments turns true, it will end the game and publish a "game over" message with the total score.
+
+
+
