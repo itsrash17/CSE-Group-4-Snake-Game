@@ -10,3 +10,6 @@ Rabbi-jidni-Ilma.
 
 Initial planning is done. Esstimating a rough size of 6 to 7 hundred lines of code. At least we started :v We'll meet the deadline hopefully.
 Initial planning can be found in the "snakeoutline.txt" inside this repo under the main branch. 
+
+27 October,2024
+Code outline is finally complete. Find "gamemechanics.txt" under the main branch of this repo.
